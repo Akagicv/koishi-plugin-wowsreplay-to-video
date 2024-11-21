@@ -1,0 +1,26 @@
+{
+  "name": "koishi-plugin-wowsreplay-to-video",
+  "description": "战舰世界WG服回放文件链接渲染视频",
+  "version": "1.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akagicv/koishi-plugin-wowsreplay-to-video.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "wows"
+  ],
+  "devDependencies": {},
+  "peerDependencies": {
+    "koishi": "^4.18.0"
+  }
+}
